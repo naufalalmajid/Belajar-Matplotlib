@@ -1,2 +1,3 @@
 # Belajar-Matplotlib
-my learning on matplotlib
+
+in some case for learning Adam Optimizer we need learning matplotlib for plotting graph
